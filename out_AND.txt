@@ -1,0 +1,11 @@
+# PUMA * OKFDD_Manager V2.22 Copyright (C)'96 by Andreas HETT
+# 
+
+# Number of PIs: 00002
+# Number of POs: 00001
+
+.exor
+01 1
+10 1
+.paths 0000000002
+.end_exor

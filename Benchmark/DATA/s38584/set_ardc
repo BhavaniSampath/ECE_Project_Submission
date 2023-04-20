@@ -1,0 +1,14 @@
+rl s38584.1.blif
+flt
+so
+part inout
+dvo -f sift
+dvo -e sift
+set ardc_verbosity 3
+set ardc_traversal_method 0
+set ardc_group_size 20
+#set ardc_group_size 15
+set ardc_affinity_factor 0.75
+set ardc_abstract_pseudo_input 0
+set ardc_projected_initial_flag no
+compute_reach -p -A 2 -D
