@@ -1,14 +1,11 @@
 /*
- * Bailey Martin
+ * Bhavani Sampath
  * University of Utah
  * College of Engineering
  * Electrical and Computer Engineering Department
- * Bailey.Martin@utah.edu
- * Ms.BaileyL.Martin@gmail.com
+ * bhavani.sampathkumar@utah.edu
+ * 
  */
-
-//when changing the circuit change the number of variable from line 50-67
-//change the loop variable in line 385
 
 
 #include <algorithm>
