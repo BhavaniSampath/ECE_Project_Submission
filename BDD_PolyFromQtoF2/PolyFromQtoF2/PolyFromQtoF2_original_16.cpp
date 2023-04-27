@@ -1,11 +1,3 @@
-/*
- * Bailey Martin
- * University of Utah
- * College of Engineering
- * Electrical and Computer Engineering Department
- * Bailey.Martin@utah.edu
- * Ms.BaileyL.Martin@gmail.com
- */
 
 #include <algorithm>
 #include <cctype>

@@ -1,14 +1,3 @@
-/*
- * Bhavani Sampath
- * University of Utah
- * College of Engineering
- * Electrical and Computer Engineering Department
- * bhavani.sampathkumar@utah.edu
- * sbhavanipriya@gmail.com
- */
-
-
-
 
 #include <algorithm>
 #include <cctype>

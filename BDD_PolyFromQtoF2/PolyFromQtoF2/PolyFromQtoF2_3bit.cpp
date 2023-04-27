@@ -1,14 +1,3 @@
-/*
- * Bailey Martin
- * University of Utah
- * College of Engineering
- * Electrical and Computer Engineering Department
- * Bailey.Martin@utah.edu
- * Ms.BaileyL.Martin@gmail.com
- */
-
-//when changing the circuit change the number of variable from line 50-67
-//change the loop variable in line 385
 
 
 #include <algorithm>
