@@ -1,11 +1,11 @@
 CC=g++ -g -Wall
-head1=/home/bhavani/My_Workspace/tools/cudd-3.0.0
-head2=/home/bhavani/My_Workspace/tools/cudd-3.0.0/cplusplus
-head3=/home/bhavani/My_Workspace/tools/cudd-3.0.0/cudd
-head4=/home/bhavani/My_Workspace/tools/cudd-3.0.0/util
-cpluslibpath=/home/bhavani/My_Workspace/tools/cudd-3.0.0/cplusplus/.libs
+head1=/home/bhavani/My_Workspace/tools/BDD_polyfromQtoF2
+head2=/home/bhavani/My_Workspace/tools/BDD_polyfromQtoF2/cplusplus
+head3=/home/bhavani/My_Workspace/tools/BDD_polyfromQtoF2/cudd
+head4=/home/bhavani/My_Workspace/tools/BDD_polyfromQtoF2/util
+cpluslibpath=/home/bhavani/My_Workspace/tools/BDD_polyfromQtoF2/cplusplus/.libs
 cpluslib=obj
-libspath=/home/bhavani/My_Workspace/tools/cudd-3.0.0/cudd/.libs
+libspath=/home/bhavani/My_Workspace/tools/BDD_polyfromQtoF2/cudd/.libs
 lib1=cudd
 lib2=util
 
