@@ -1,0 +1,7 @@
+Finished recurssion
+Output expression:
+Number of nodes in BDD: 291
+Number of minterms in BDD: 3.64285e+09
+Time taken by function: 4073797194 microseconds
+Number of Terms:28099
+depth:2921618
