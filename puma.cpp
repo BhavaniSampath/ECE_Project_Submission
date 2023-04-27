@@ -216,7 +216,7 @@ dd_man::dd_man( uchar   ut_hashsize_init,
 	OKFDD_Subst_Method      = FALSE;
 	OKFDD_Use_Order	 	= FALSE;
 	OKFDD_Version_Wait      = TRUE;
-	OKFDD_DTL_Default       = D_Shan;
+	OKFDD_DTL_Default       = D_posD;
 	OKFDD_Interleaving      = FALSE;
 	OKFDD_Temproutine       = 0;
 	OKFDD_Tempfactor	= 1.5;

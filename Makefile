@@ -1,12 +1,20 @@
 CC=g++ -g -Wall
 
-a: main.o puma.o tc_time.o 
-	$(CC) main.o puma.o tc_time.o -o a 
+QtoF2: PolyFromQtoF2.o Types.o File.o 
+	$(CC) PolyFromQtoF2.o Types.o File.o puma.o tc_time.o -o QtoF2 
 
-main.o: main.cpp puma.h tc_time.h
-	$(CC)  -c  main.cpp
 
-puma.o: puma.cpp puma.h tc_time.h
+
+PolyFromQtoF2.o: PolyFromQtoF2.cpp 
+	$(CC)  -c  PolyFromQtoF2.cpp
+
+Types.o: Types.cpp Types.h 
+	$(CC)  -c Types.cpp
+
+File.o: File.cpp File.h 
+	$(CC)  -c File.cpp
+
+puma.o: puma.cpp puma.h 
 	$(CC)  -c  puma.cpp
 
 
