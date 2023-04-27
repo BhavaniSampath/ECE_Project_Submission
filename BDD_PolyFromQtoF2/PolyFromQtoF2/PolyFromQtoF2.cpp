@@ -1,3 +1,12 @@
+/*
+ * Bhavani Sampath
+ * University of Utah
+ * College of Engineering
+ * Electrical and Computer Engineering Department
+ * bhavani.sampathkumar@utah.edu
+ * 
+ */
+
 #include <algorithm>
 #include <cctype>
 #include <fstream>
