@@ -22,8 +22,8 @@
 #include <sstream>
 #include <string>
 #include <typeinfo>
-#include "/home/bhavani/My_Workspace/tools/BDD_polyfromQtoF2/cudd/cudd.h"
-#include "/home/bhavani/My_Workspace/tools/BDD_polyfromQtoF2/cplusplus/cuddObj.hh"
+#include "../../cudd/cudd.h"
+#include "../../cplusplus/cuddObj.hh"
 #include<map>
 using namespace std;
 using namespace std::chrono;
