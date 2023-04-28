@@ -1,4 +1,4 @@
-This repository is a c++ implemention for partial synthesis of Polynomial from field of Rational(Q) to Finite Field(F2) with end result represented as FDD's (Funtional Decision Diagram)
+This repository is a c++ implemention for partial synthesis with Polynomial from field of Rational(Q) to Finite Field(F2) with end result represented as FDD's (Funtional Decision Diagram)
 
 How to Run
 
