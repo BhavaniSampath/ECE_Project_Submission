@@ -15,4 +15,6 @@ Remainders from Benchmark Circuits path
 
 Cloned_Directory/BDD_PolyfromQtoF2/BDD_PolfromQtoF2/PolyfromQtoF2/Test_files
 
+*There is one more branch that contains the FDD implementation
+
 
