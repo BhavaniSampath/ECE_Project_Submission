@@ -1,5 +1,5 @@
 # BDD_PolyfromQtoF2
-This repository contains the C++ implementation of partial synthesis of polynomial with final implementation using BDD.
+This repository contains the C++ implementation of partial synthesis with polynomials end result represented using BDD.
 
 
 BDD_PolyfromQtoF2 folder contains the src code and the make file to run this program
